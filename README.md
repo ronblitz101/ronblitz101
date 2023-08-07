@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Aaron Gabriel  <img width="28px" height="28px" alt="hi!" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"></h1>
-<h3 align="center">An aspiring programmer, developer, and a Computer Science student.</h3>
+<h3 align="center">A programmer, aspiring developer, and a Computer Science student.</h3>
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronblitz101&label=Profile%20views&color=0e75b6&style=flat" alt="ronblitz101" /> </p>
