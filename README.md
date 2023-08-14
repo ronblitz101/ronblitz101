@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Management and Program Development**
 - 💻 Most used line of code `#include <stdio.h> int main() { return 0; }`
-- ⚡ Fun fact: I play games very often.
+- ⚡ Fun fact: I play games very often. I also edit videos and do graphic design.
 - 📫 How to reach me **aaronsilerio8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
