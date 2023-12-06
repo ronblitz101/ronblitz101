@@ -77,7 +77,6 @@
 <hr/>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?
     font=Righteous&size=25&duration=4000&pause=1000&color=93D2BA&center=true&vCenter=true&random=false&width=500&height=70&lines=Thank+you+for+visiting!+👌;+Let's+connect!+🤝" alt="Typing SVG"/>
     </a>
