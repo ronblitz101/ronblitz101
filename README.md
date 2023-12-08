@@ -65,10 +65,10 @@
 <br/>
 <div align="center">
 <img width=370 src="https://streak-stats.demolab.com/?user=ronblitz101&theme=submarine-flowers&border_radius=15" alt="streak stats"/>
-<img width=345 src="https://github-readme-stats-git-master-ronblitz101s-projects.vercel.app/api?username=ronblitz101&show_icons=true&theme=gruvbox_light&rank_icon=github&border_radius=15" alt="readme stats"/>
+<img width=345 src="https://github-readme-stats-eight-beta-23.vercel.app/api?username=ronblitz101&show_icons=true&theme=gruvbox_light&rank_icon=github&border_radius=15" alt="readme stats"/>
 
 <br/>
-<img width=325 src="https://github-readme-stats-git-master-ronblitz101s-projects.vercel.app/api/top-langs/?username=ronblitz101&hide=HTML,CSS&langs_count=8&theme=noctis_minimus&layout=compact&border_radius=15&count_weight=0.5&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+<img width=325 src="https://github-readme-stats-eight-beta-23.vercel.app/api/top-langs/?username=ronblitz101&hide=HTML,CSS&langs_count=8&theme=noctis_minimus&layout=compact&border_radius=15&count_weight=0.5&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 
 <br/><br/>
