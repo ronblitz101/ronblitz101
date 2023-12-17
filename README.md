@@ -16,7 +16,7 @@
 
 💻 Most used line of code **`public static void main (String[] args)`**
 
-⚡ Fun fact **Ben Tennyson's middle name is Kirby**
+⚡ Fun fact **Minecraft is Java's first game app**
 
 </div>
 
